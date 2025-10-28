@@ -31,8 +31,8 @@
     - Install Python 3.x
     - Install required libraries:
     ```bash
-    pip install opencv-python numpy matplotlib```
-
+    pip install opencv-python numpy matplotlib
+    ```
     - Run the Python scripts to start signal processing and motion detection.
 
 
