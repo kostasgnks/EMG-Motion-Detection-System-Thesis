@@ -21,5 +21,6 @@
 ## Installation
 1. Open the Arduino sketch in Arduino IDE.
 2. Connect the EMG sensor to Arduino.
+![EMG circuit diagram](README_pics/circuit.png)
 3. Upload the code.
 
