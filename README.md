@@ -11,7 +11,7 @@
 - Arduino board (e.g., Arduino Mega)
 - Commercial sEMG sensor (I used the [Gravity Emg sensor](https://www.dfrobot.com/product-1661.html))
 - Electrodes (Usually they are includded with the EMG sensor)
-- Motion capture camera(U can use any webcam)
+- Motion capture camera(You can use any webcam)
 
 ## Software Requirements
 - Arduino IDE
