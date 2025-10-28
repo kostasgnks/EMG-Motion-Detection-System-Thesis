@@ -19,8 +19,25 @@
 - OpenCV library for Python (opencv-python)
 
 ## Installation
-1. Open the Arduino sketch in Arduino IDE.
-2. Connect the EMG sensor to Arduino.
-![EMG circuit diagram](README_pics/circuit.png)
-3. Upload the code.
+1. Arduino Setup
+    - Open the Arduino sketch in Arduino IDE.
+    - Connect the EMG sensor to Arduino.
+
+    ![EMG circuit diagram](README_pics/circuit.png)
+    - Upload the code.
+
+2. Python Environment
+
+    - Install Python 3.x
+    - Install required libraries:
+    ```bash
+    pip install opencv-python numpy matplotlib
+    - Run the Python scripts to start signal processing and motion detection.
+
+
+## Usage
+1. Connect the EMG sensor to the Arduino and place electrodes on the target muscle.
+2. Run the Arduino sketch to start streaming EMG data.
+3. Launch the Python script to process the EMG data and track motion using the camera.
+4. Observe live feedback of muscle activity and motion, and save data for further analysis
 
