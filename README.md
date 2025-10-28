@@ -1,0 +1,2 @@
+# Thesis-System for Recording and Analysis of Muscle Activity Electrical Signals for Muscle Injury Rehabilitation
+Repository with code and instructions for developing an EMG and motion detection system using Arduino and Python/OpenCV. The goal is to measure, monitor, and manage muscle signals in real time, useful for athletes and non-expert users.
